@@ -1,0 +1,4 @@
+# Copie ce fichier en "db.properties" (ignoré par Git) et adapte-le.
+db.url=jdbc:oracle:thin:@localhost:1521:xe
+db.user=PHARMACIE
+db.password=ChangeMe_123

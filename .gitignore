@@ -1,0 +1,20 @@
+# Build
+target/
+bin/
+out/
+*.class
+
+# Secrets locaux
+db.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
